@@ -10,6 +10,6 @@
 - Cluster without Preprocessing 
 - <img width="645" alt="Screenshot 2023-10-02 at 6 23 29 PM" src="https://github.com/yuvaldanino/K-Means-Preprocessing-with-MinMaxScaler/assets/118403576/f3fa3920-33bf-40d3-8907-c7ea1d78c4ad">
 
-- Cluster With MinMaxScaler preprocessing
+- IMPROVED Cluster With MinMaxScaler preprocessing
 - <img width="645" alt="Screenshot 2023-10-02 at 6 23 37 PM" src="https://github.com/yuvaldanino/K-Means-Preprocessing-with-MinMaxScaler/assets/118403576/2ccc5cd5-facb-498b-8cd1-4bfbd5bc74b9">
 
